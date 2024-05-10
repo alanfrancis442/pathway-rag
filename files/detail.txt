@@ -1,0 +1,5 @@
+Pathway's LLM App framework integrates with various LLM service providers through their APIs.
+
+ This allows you to leverage the capabilities of those LLMs within your Pathway application.
+
+Overall, Pathway acts as a bridge between your data and external LLM APIs. It helps you manage your data, find relevant information using the LLM, and ultimately generate responses based on the LLM's output.
